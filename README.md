@@ -1,5 +1,5 @@
 # Apps
-apps for Django made by me
+Apps for Django, made by me:
 
 account - app for authorization
 
